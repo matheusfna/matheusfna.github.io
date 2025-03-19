@@ -7,24 +7,25 @@ O projeto foi criado para destacar minhas habilidades técnicas, experiências e
 
 
 ✨ Funcionalidades
-Exibição de informações profissionais de forma clara;
-Seção de educação e portfolio;
-Portfólio com projetos realizados;
-Área de contato direto;
+✨ Exibição de informações profissionais de forma clara;
+✨ Seção de educação e portfolio;
+✨ Portfólio com projetos realizados;
+✨ Área de contato direto;
 
 
 🛠️ Tecnologias Utilizadas
-HTML5
-CSS3
-JavaScript
-[Framework e bibliotecas] (ex.: Bootstrap, Animate, Normalize etc.)
+🛠️ HTML5
+🛠️ CSS3
+🛠️ JavaScript
+🛠️ [Framework e bibliotecas] 
+🛠️ (Bootstrap, Animate, Normalize etc.)
 
 
 🌐 Como acessar
-Visualize meu currículo online aqui:
+🌐 Visualize meu currículo online aqui:
 
 ➡️ matheusfna.github.io
 
 📬 Contato
-Entre em contato comigo:
+📬 Entre em contato comigo:
 🔗 [LinkedIn] -> https://shre.ink/Myr3
