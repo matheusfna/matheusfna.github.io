@@ -1425,6 +1425,51 @@ body > footer .copyrights {
 /* =======================================
 7.4. Portfolio subpage
 ======================================= */
+
+.project-list {
+  list-style: none;
+  padding: 0;
+}
+
+.project-item {
+  margin-bottom: 20px;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.project-item h5 {
+  margin: 0;
+  font-size: 18px;
+  color: #333;
+}
+
+.project-item p {
+  margin-top: 5px;
+  color: #555;
+}
+
+.project-item i {
+  margin-left: 5px;
+  color: #333;
+}
+.portfolio-info {
+  text-align: center;
+  padding: 10px 0;
+}
+
+.portfolio-info .fa-github {
+  font-size: 18px;
+  margin-top: 5px;
+  display: block;
+}
+
+.portfolio-desc {
+  margin-top: 10px;
+  text-align: center;
+  font-size: 14px;
+  color: #555;
+}
 .portfolio-grid {
   margin-left: -0.5em;
   margin-right: -0.5em;
